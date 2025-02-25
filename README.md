@@ -31,9 +31,7 @@ This course is based on the book "Software Engineering" by Ian Sommerville. The 
 
 Contributions to this repository are welcome. If you have any additional materials or resources that you think would be beneficial for the course, feel free to create a pull request.
 
-## Author
 
-This repository is maintained by me)).
 
 ## License
 
