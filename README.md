@@ -33,7 +33,7 @@ Contributions to this repository are welcome. If you have any additional materia
 
 ## Author
 
-This repository is maintained by [Your Name] ([your-email@example.com](mailto:your-email@example.com)).
+This repository is maintained by me)).
 
 ## License
 
