@@ -42,7 +42,7 @@ A well-structured software architecture is critical for building robust, scalabl
 
 ---
 
-**Author:** [Your Name]  
+
 **Reference:** Ian Sommerville - Software Engineering (Chapter 6)  
-**Date:** [Insert Date]
+**Date:** 25/02/2025
 
