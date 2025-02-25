@@ -37,19 +37,15 @@ This document provides a summary of key points from Chapter 6 of Ian Sommerville
 - Architectural Decision Records (ADR): Capturing key design decisions and their rationale.
 ```
 
-### 6. **Download the pdf
-```plaintext
+### 6. **Download the PDF**
 [Download Software Architecture PDF](https://drive.google.com/file/d/1JtH1TFIp9iUYP35IomBq9FFKvvtIB-GU/view)
 
 ---
-
 
 ## Conclusion
 A well-structured software architecture is critical for building robust, scalable, and maintainable systems. By following best practices and selecting suitable architectural patterns, developers can ensure long-term success and adaptability of their software solutions.
 
 ---
 
-
 **Reference:** Ian Sommerville - Software Engineering (Chapter 6)  
 **Date:** 25/02/2025
-
